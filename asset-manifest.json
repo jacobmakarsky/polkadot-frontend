@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/polkadot-frontend/static/js/main.d867c181.chunk.js",
-    "main.js.map": "/polkadot-frontend/static/js/main.d867c181.chunk.js.map",
+    "main.js": "/polkadot-frontend/static/js/main.971ec9ec.chunk.js",
+    "main.js.map": "/polkadot-frontend/static/js/main.971ec9ec.chunk.js.map",
     "runtime-main.js": "/polkadot-frontend/static/js/runtime-main.4ab35452.js",
     "runtime-main.js.map": "/polkadot-frontend/static/js/runtime-main.4ab35452.js.map",
     "static/css/2.e74619de.chunk.css": "/polkadot-frontend/static/css/2.e74619de.chunk.css",
-    "static/js/2.80fbca93.chunk.js": "/polkadot-frontend/static/js/2.80fbca93.chunk.js",
-    "static/js/2.80fbca93.chunk.js.map": "/polkadot-frontend/static/js/2.80fbca93.chunk.js.map",
+    "static/js/2.029db45c.chunk.js": "/polkadot-frontend/static/js/2.029db45c.chunk.js",
+    "static/js/2.029db45c.chunk.js.map": "/polkadot-frontend/static/js/2.029db45c.chunk.js.map",
     "index.html": "/polkadot-frontend/index.html",
-    "precache-manifest.3e24de821eb935621cb76142cb7c9e9c.js": "/polkadot-frontend/precache-manifest.3e24de821eb935621cb76142cb7c9e9c.js",
+    "precache-manifest.b3b08f313ec147b6c6070c8cdc2094ef.js": "/polkadot-frontend/precache-manifest.b3b08f313ec147b6c6070c8cdc2094ef.js",
     "service-worker.js": "/polkadot-frontend/service-worker.js",
     "static/css/2.e74619de.chunk.css.map": "/polkadot-frontend/static/css/2.e74619de.chunk.css.map",
-    "static/js/2.80fbca93.chunk.js.LICENSE.txt": "/polkadot-frontend/static/js/2.80fbca93.chunk.js.LICENSE.txt",
+    "static/js/2.029db45c.chunk.js.LICENSE.txt": "/polkadot-frontend/static/js/2.029db45c.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/polkadot-frontend/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.4ab35452.js",
     "static/css/2.e74619de.chunk.css",
-    "static/js/2.80fbca93.chunk.js",
-    "static/js/main.d867c181.chunk.js"
+    "static/js/2.029db45c.chunk.js",
+    "static/js/main.971ec9ec.chunk.js"
   ]
 }
